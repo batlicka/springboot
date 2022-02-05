@@ -3,9 +3,7 @@
 <html lang="en">
 <head>
 </head>
-<body>
-<h1>welcome on JSP page</h1>
-
-</body>
-
+    <body>
+        <h1>This is a test!</h1>
+    </body>
 </html>
